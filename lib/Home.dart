@@ -174,3 +174,4 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 // Variables para controlar el estado de la calculadora
+// Método que controla la acción de cada botón de la calculadora
