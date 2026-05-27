@@ -173,3 +173,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+// Variables para controlar el estado de la calculadora
